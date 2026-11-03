@@ -9,3 +9,6 @@
 
 4. DELETE
 <img width="1608" height="929" alt="image" src="https://github.com/user-attachments/assets/226ca63c-e298-440f-a40c-5909215561e0" />
+
+5. POSTGRE
+<img width="743" height="231" alt="image" src="https://github.com/user-attachments/assets/8762ef83-139d-4c76-a11c-c22e77e1a77a" />
